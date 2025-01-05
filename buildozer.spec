@@ -1,6 +1,6 @@
 [app]
 
-title = Music Player 
+title = Music Player App
 package.name = basicapp
 package.domain = net.aesencryptornl
 icon.filename = images/icon1.png
